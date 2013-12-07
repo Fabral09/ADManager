@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Settaggi>
+  <ldap>LDAP://falonzi.local</ldap>
+  <username>administrator</username>
+  <password>pa$$w0rd</password>
+  <db_type>ORACLE</db_type>
+  <db_adress>172.21.1.111</db_adress>
+  <db_service_name>PROD01</db_service_name>
+  <db_port>1521</db_port>
+  <db_user_id>MQASAPPE1</db_user_id>
+  <db_password>MQASAPPE1</db_password>
+  <db_table>MQASACDI_TAB</db_table>
+  <db_date_field>DATA_AGG</db_date_field>  
+</Settaggi>
